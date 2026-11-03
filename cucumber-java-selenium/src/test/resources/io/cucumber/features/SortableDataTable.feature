@@ -1,4 +1,4 @@
-Feature: The Internet | Sorted Table
+Feature: The Internet | Sortable Data Table
 
   This feature covers sortable data table handling on The Internet
 
